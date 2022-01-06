@@ -1,0 +1,20 @@
+table,
+tr,
+th,
+td {
+	border: 2px solid black;
+}
+table {
+	width: 400px;
+}
+.enlace {
+	display: inline-block;
+	background-color: yellow;
+}
+span {
+	background-color: yellowgreen;
+}
+.bloque {
+	background-color: lightslategrey;
+	text-align: center;
+}
